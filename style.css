@@ -1,0 +1,539 @@
+  .frame-4648952 {
+    background: linear-gradient(
+      158deg,
+      rgba(62, 123, 250, 1) 19%,
+      rgba(102, 0, 204, 1) 111%
+    );
+    overflow: hidden;
+    border-radius: 16px;
+    padding: 50px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 184px;
+    height: 238px;
+  }
+  .frame-4648952:not(:last-of-type) {
+    margin-right: 8px;
+  }
+  .relative-wrapper-two {
+    margin-bottom: 12px;
+    position: relative;
+  }
+  .image {
+    width: 160px;
+    height: 160px;
+    position: relative;
+  }
+  .wave {
+    width: 568px;
+    height: 34px;
+    position: absolute;
+    right: -190px;
+    bottom: -13px;
+   
+  }
+  .flex-wrapper-three {
+    width: 184px;
+    height: 66px;
+    background-color: rgba(40, 41, 61, 1);
+    display: flex;
+    align-items: flex-start;
+  }
+  .heading-two { 
+    padding: 8px 64px 34px 64px;
+    margin: 0;
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;;
+  }
+  .wave-two {
+    width: 568px;
+    height: 34px;
+    position: absolute;
+    left: -204px;
+    bottom: -13px;
+  }
+  .flex-wrapper-four {
+    background-color: rgba(40, 41, 61, 1);
+    padding: 0px 71px 35px;
+    display: flex;
+    align-items: flex-start;
+  }
+  .wave-three {
+    width: 568px;
+    height: 39px;
+    position: absolute;
+    left: -210px;
+    bottom: -13px;
+  }
+  .group-4648849 {
+    background-size: 105% 100%;
+    background-position: center;
+    background-image: url(Union.svg);
+    padding: 48px 28px 52px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .heading-three {
+    padding: 16px 28px 8px 28px;
+    max-width: 544px;
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+    margin-bottom: 8px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+  }
+  .lorem-ipsum-dolor-sit-amet-consectetur-two {
+    margin: 0px;
+    padding: 0px 0px 20px 0px;
+    max-width: 544px;
+    color: rgba(255, 255, 255, 0.8);
+    text-align: center;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+
+  }
+  .thumb-168px-112px-jackpot {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .thumb-168px-112px-jackpot:not(:last-of-type) {
+    margin-right: 20px;
+  }
+  .flex-wrapper-six {
+    background-size: 100% 100%;
+    background-position: center;
+    
+    margin-bottom: 6px;
+    border-radius: 8px;
+    padding: 8px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .thumb-ribbon-none {
+    padding: 0 1px 0 0;
+    display: flex;
+    align-items: flex-start;
+  }
+  .bg {
+    width: 168px;
+    height: 112px;
+  }
+  .flex-wrapper-seven {
+    width: 168px;
+    height: 24px;
+    margin-top: -24px;
+    border-radius: 0px 0px 8px 8px;
+    background-color: rgba(0, 0, 0, 0.86);
+    
+    display: flex;
+    align-items: center;
+
+  }
+  .num-458658-12 {
+    padding: 4px 52px;
+    color: rgba(6, 194, 112, 1);
+    letter-spacing: 0.2px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+  }
+  .thumb-comp-title {
+    padding: 0 82px 0 2px;
+    
+  }
+  .icon {
+    width: 16px;
+    height: 16px;
+    align-self: stretch;
+    margin-right: 8px;
+    object-fit: cover;
+  }
+  .game-title {
+    margin: -19px 0px 20px 21px;
+    color: rgba(255, 255, 255, 1);
+    letter-spacing: 0.2px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+  }
+  .flex-wrapper-eight {
+    background-size: 100% 100%;
+    background-position: center;
+    
+    margin-bottom: 6px;
+    border-radius: 8px;
+    padding: 8px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .flex-wrapper-ten {
+    background-size: 100% 100%;
+    background-position: center;
+   
+    margin-bottom: 6px;
+    border-radius: 8px;
+    padding: 8px 0 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .component-1 {
+    width: 176px;
+    height: 40px;
+    background-color: rgba(218, 46, 113, 1);
+    border-radius: 8px;
+    box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.04), 0px 2px 4px rgba(0, 0, 0, 0.32);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .label {
+    color: rgba(255, 255, 255, 1);
+    text-align: center;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+  }
+
+  .group {
+    margin-top: -66px;
+    width: 547px;
+    height: 384px;
+    background-size: 100% 100%;
+    background-position: center;
+    background-image: url(bag.svg);
+    padding: 48px 28px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .app {
+    background-color: rgba(255, 255, 255, 0.1);
+    margin-bottom: 8px;
+    overflow: hidden;
+    border-radius: 16px;
+    padding: 0 16px 0 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 108px;
+    width: 492px;
+  }
+  .flex-wrapper-one {
+    background: linear-gradient(147.14deg, #FF3B3B 6.95%, #6600CC 93.05%);
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.04), 0px 4px 8px rgba(0, 0, 0, 0.32);
+    
+    padding: 16px 18px 16px 16px;
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.04),
+      0 4px 8px 0 rgba(0, 0, 0, 0.32);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .frame-4648915 {
+    margin-bottom: -17px;
+    display: flex;
+    align-items: center;
+  }
+  .frame-4648918 {
+    margin-right: 8px;
+    padding: 0 0.5px 0 0;
+    width: 39.5px;
+    height: 40px;
+    position: relative;
+  }
+  .shutterstock-2025322109-converted-1 {
+    width: 40px;
+    height: 40px;
+    margin-left: -0.5px;
+    position: relative;
+  }
+  .group-4648848 {
+    width: 14.12px;
+    height: 11.7px;
+    position: absolute;
+    left: 12.94px;
+    top: 10.59px;
+  }
+  .rectangle-1637 {
+    width: 2px;
+    height: 24px;
+    background-color: rgba(200, 221, 253, 1);
+    border-radius: 4px;
+    box-shadow: -1px 0 1px 0 rgba(0, 0, 0, 0.1) inset,
+      1px 0 1px 0 rgba(255, 255, 255, 0.7) inset;
+    position: absolute;
+    right: 4.5px;
+    top: 8px;
+  }
+  .rectangle-1639 {
+    width: 2px;
+    height: 16px;
+    background-color: rgba(200, 221, 253, 1);
+    border-radius: 4px;
+    box-shadow: -1px 0 1px 0 rgba(0, 0, 0, 0.1) inset,
+      1px 0 1px 0 rgba(255, 255, 255, 0.7) inset;
+    position: absolute;
+    right: 0.5px;
+    top: 12px;
+  }
+  .rectangle-1640 {
+    width: 2px;
+    height: 16px;
+    background-color: rgba(200, 221, 253, 1);
+    border-radius: 4px;
+    box-shadow: -1px 0 1px 0 rgba(0, 0, 0, 0.1) inset,
+      1px 0 1px 0 rgba(255, 255, 255, 0.7) inset;
+    position: absolute;
+    left: -0.5px;
+    top: 12px;
+  }
+  .rectangle-1638 {
+    width: 2px;
+    height: 24px;
+    background-color: rgba(200, 221, 253, 1);
+    border-radius: 4px;
+    box-shadow: -1px 0 1px 0 rgba(0, 0, 0, 0.1) inset,
+      1px 0 1px 0 rgba(255, 255, 255, 0.7) inset;
+    position: absolute;
+    left: 3.5px;
+    top: 8px;
+  }
+  .ustanavlivajte-prilozhenie-supergra-ipo {
+    
+    color: rgba(255, 255, 255, 1);
+    width: 205px;
+    height: 32px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+  }
+  .dlja-ustanovki-prilozhenija-perehoditepo-s {
+    width: 264px;
+    color: rgba(255, 255, 255, 0.8);
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+  }
+  .dlja-ustanovki-prilozhenija-perehoditepo-s-emphasis-1 {
+    color: rgba(255, 255, 255, 1);
+    font-family: var(--arial-12-regular-family);
+    font-size: var(--arial-12-regular-size);
+    font-weight: var(--arial-12-regular-weight);
+    line-height: var(--arial-12-regular-line-height);
+  }
+
+  .button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 12px;
+    gap: 8px;
+    border: none;
+    width: 178px;
+    height: 40px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    background: linear-gradient(147.14deg, #FF3B3B 6.95%, #6600CC 93.05%); 
+    box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.04), 0px 2px 4px rgba(0, 0, 0, 0.32);
+    border-radius: 8px;
+    
+  }
+
+  .button-icon{
+    display: inline-flex;
+    align-items: center;
+    width: 21px;
+    height: 16.5px;
+  }
+
+  .bot {
+    background-color: rgba(255, 255, 255, 0.1);
+    overflow: hidden;
+    border-radius: 16px;
+    padding: 0 16px 0 0;
+    display: flex;
+    align-items: center;
+    height: 72px;
+    width: 492px;
+  }
+  .flex-wrapper-two {
+    background: linear-gradient(147.14deg, #3E7BFA 6.95%, #6600CC 93.05%);
+    margin-right: 16px;
+    padding: 16px 0px 16px 16px;
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.04),
+      0 4px 8px 0 rgba(0, 0, 0, 0.32);
+    display: flex;
+    align-items: center;
+  }
+  .frame-4648915-two {
+    display: flex;
+    align-items: center;
+  }
+  .shutterstock-2014325807-converted-1 {
+    width: 40px;
+    height: 40px;
+    margin-right: 8px;
+  }
+  .bud-vsegda-s-nami-na-svjazipodkljuchaj-t {
+    color: #FFFFFF;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    
+    line-height: 16px;
+  }
+  .button-2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border: none;
+    width: 178px;
+    height: 40px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+    background: linear-gradient(147.14deg, #3E7BFA 6.95%, #6600CC 93.05%);
+    border-radius: 8px;
+    padding: 8px 14px;
+    box-shadow: 0 0 1px 0 rgba(0, 0, 0, 0.04),
+      0 2px 4px 0 rgba(0, 0, 0, 0.32);
+   
+    
+    
+  }
+  .button-icon2 {
+    display: inline-flex;
+    align-items: center;
+    margin-right: -5px;
+    width: 24px;
+    height: 24px;
+  }
+
+  .line {
+    align-self: stretch;
+    margin-bottom: -24px;
+    object-fit: cover;
+  }
+
+  .ostalis-voprosy {
+    margin-top: -27px;
+    margin-bottom: 0;
+    width: 142px;
+    color: #FFFFFF;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    padding: 43px 412px 0px 46px;
+  }
+
+  .nashi-specialisty-pomogut-razobrat-sja {
+    width: 229px;
+    margin: 0;
+    color: rgba(255, 255, 255, 0.6);
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    padding: 0px 109px 0px 46px;
+  }
+
+  .button-3 {
+    position: relative;
+    left: 385px;
+    bottom: 40px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 8px;
+    border: none;
+    width: 170px;
+    height: 40px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+    background: linear-gradient(147.14deg, #FF3B3B 6.95%, #6600CC 93.05%);
+    border-radius: 8px;
+    box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.04), 0px 2px 4px rgba(0, 0, 0, 0.32);
+  }
+ 
+  .button-icon3 {
+    
+    display: inline-flex;
+    align-items: center;
+    margin-left: 7px;
+    margin-right: 3px;
+    width: 18px;
+    height: 18px;
+  }
+
+  .line1 {
+    align-self: stretch;
+    padding-left: 0px;
+    margin-bottom: -80px;
+    object-fit: cover;
+  }
+
+  .vy-poluchili-jeto-pis-mo-potomu-chto-zareg {
+    margin: 0;
+    width: 506px;
+    text-align: center;
+    color: #818296;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 16px;
+  }
+  .vy-poluchili-jeto-pis-mo-potomu-chto-zareg-emphasis-1 {
+    color: rgba(218, 46, 113, 1);
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 16px;
+  }
